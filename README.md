@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Charlie91/js-algorithms-trees-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Charlie91/js-algorithms-trees-project-lvl1/actions)
